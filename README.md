@@ -56,6 +56,7 @@ This project was built collaboratively using:
 - Git branching workflow for version control
 - Agile development
 - Pair programming
+- Figma for design
 
 ## Installation & Setup
 
