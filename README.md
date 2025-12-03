@@ -24,7 +24,7 @@ A landing page for a financial services company.
 
 - **HTML** - Gives the structure for the app.
 - **CSS** - Styles the app.
-- **JS** - Gives the app functionality.
+- **JS** - Save user id feature that allows user id to be locally stored
 
 
 ## <a name="nextsteps"></a>Future Features
