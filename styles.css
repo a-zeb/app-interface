@@ -1,0 +1,126 @@
+:root {
+  --truist-purple: #3b0f47;
+  --truist-soft: #b6a5e0;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #f7f7fb;
+  color: #1f1f2d;
+}
+
+.text-primary {
+  color: var(--truist-purple) !important;
+}
+
+.bg-primary,
+.btn-primary {
+  background-color: var(--truist-purple) !important;
+  border-color: var(--truist-purple) !important;
+}
+
+.bg-primary-subtle {
+  background-color: var(--truist-purple) !important;
+}
+
+.open-account-btn {
+  background: #f0eaff;
+  color: var(--truist-purple);
+  border: 1px solid #e0d6ff;
+  border-radius: 999px;
+}
+
+.btn-outline-primary {
+  color: var(--truist-purple);
+  border-color: var(--truist-purple);
+}
+
+.btn-outline-primary:hover {
+  background-color: var(--truist-purple);
+  color: #fff;
+}
+
+.hero-section {
+  position: relative;
+  min-height: 78vh;
+}
+
+.hero-visual {
+  position: relative;
+  background: url("assets/images/background-image.jpg") center/cover no-repeat;
+  overflow: hidden;
+}
+
+.hero-visual::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    90deg,
+    rgba(247, 247, 251, 0.96) 0%,
+    rgba(247, 247, 251, 0.82) 28%,
+    rgba(247, 247, 251, 0.4) 56%,
+    rgba(247, 247, 251, 0) 100%
+  );
+  pointer-events: none;
+}
+
+.hero-copy {
+  position: relative;
+  z-index: 1;
+}
+
+.login-card {
+  background-color: var(--truist-purple) !important;
+  max-width: 420px;
+  margin-left: auto;
+}
+
+.logo-square-sm {
+  width: 26px;
+  height: 26px;
+  border: 2px solid currentColor;
+  border-radius: 4px;
+  position: relative;
+  display: inline-block;
+}
+
+.logo-square-sm::before,
+.logo-square-sm::after {
+  content: "";
+  position: absolute;
+  top: 6px;
+  bottom: 6px;
+  width: 3px;
+  background: currentColor;
+  border-radius: 2px;
+}
+
+.logo-square-sm::before {
+  left: 6px;
+}
+
+.logo-square-sm::after {
+  right: 6px;
+}
+
+.bg-light-purple {
+  background-color: #ede6f8;
+}
+
+.hero-copy h1 {
+  font-size: 2.4rem;
+  max-width: 520px;
+}
+
+.footer-nav a {
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  text-decoration: underline;
+}
+
+.footer-top-links a {
+  color: #d9d2e9;
+}
