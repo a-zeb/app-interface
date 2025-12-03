@@ -37,7 +37,9 @@ document.addEventListener("DOMContentLoaded", () => {
     signInForm.addEventListener("submit", (event) => {
       event.preventDefault();
       persistUserId();
-      alert("Demo only: external links are live, but sign in is not connected.");
+      alert(
+        "Demo only: external links are live, but sign in is not connected."
+      );
     });
   }
 });
