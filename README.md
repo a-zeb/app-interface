@@ -1,8 +1,10 @@
-# Investor Insights Dashboard
+# Truist Bank Landing Page
+
+![truist-logo](https://github.com/user-attachments/assets/9f54c0d0-29b4-4a10-9c3e-84840e78c41f)
 
 ## Description
 
-A dashboard application.
+A landing page for a financial services company.
 
 ## Table of Contents
 
@@ -14,7 +16,7 @@ A dashboard application.
 
 ## <a name="technologiesused"></a>Technologies Used
 
-- **JavaScript** - Dynamic functionality and API integration
+- **JavaScript** - Dynamic functionality 
 - **HTML5** - Semantic markup and structure
 - **CSS3** - Styling with CSS Grid, Flexbox, and custom properties
 
@@ -24,17 +26,12 @@ A dashboard application.
 - **CSS** - Styles the app.
 - **JS** - Gives the app functionality.
 
-**In Progress:**
-
-- HTML
-- CSS
-- JS
 
 ## <a name="nextsteps"></a>Future Features
 
-- **HTML** - Create the structure for the app.
-- **CSS** - Style the app.
-- **JS** - Give the app functionality.
+- A free financial snapshot feature to give potential clients advice on how to improve financial health from a holistic approach
+- A budget dashboard demo feature to give clients an idea of the kind of features they can expect to get from becoming a member
+- An explainer animation loop with the different benefits that comes with signing up with Truist.
 
 ## <a name="deployment"></a>Deployed Link
 
@@ -42,11 +39,11 @@ A dashboard application.
 [Github Pages](https://a-zeb.github.io/app-interface/)
 
 **Repository:**  
-[Github Repository](https://github.com/a-zeb/app-interface.git)
+[Github Repository](https://github.com/HomamZituni?tab=repositories)
 
 ## <a name="author"></a>About The Authors
 
-**THEE TEAM**
+**THE TEAM**
 
 - **[Anwar Zeb](https://github.com/a-zeb)** - Systems Engineer
 - **[Clarence Franklin](https://github.com/cfra8189)** - UI/UX Design & Styling
