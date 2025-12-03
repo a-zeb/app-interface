@@ -22,9 +22,9 @@ A landing page for a financial services company.
 
 ## <a name="features"></a> Features
 
-- **HTML** - Gives the structure for the app.
-- **CSS** - Styles the app.
-- **JS** - Gives the app functionality.
+- **HTML** - Gives the structure for the app
+- **CSS** - Styles the app
+- **JS** - Save user id feature that allows user id to be locally stored
 
 
 ## <a name="nextsteps"></a>Future Features
